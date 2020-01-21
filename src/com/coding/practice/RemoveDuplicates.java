@@ -1,7 +1,7 @@
 package com.coding.practice;
 
 
-public class removeDuplicates {
+public class RemoveDuplicates {
 	
 	public static void main(String args[]){
 		String string = "aaaabb";

@@ -1,6 +1,6 @@
 package com.coding.practice;
 
-public class isBinarySearchTree {
+public class ValidBinarySearchTree {
 
 	static class Node {
 		int value;
